@@ -4,8 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Pessoa p = new Pessoa("Maria", 34, "1234567");
-        p.imprimirInfo();
+        Paciente paciente = new Paciente("1234", "Sulamerica", "Pedro", 25, "19677696807");
+        paciente.imprimirInfo(); // As informações ao fazer paciente. são nativas da classe pai (Pessoa)
 
     }
 
