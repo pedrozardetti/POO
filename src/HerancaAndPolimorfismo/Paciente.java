@@ -1,6 +1,6 @@
 package HerancaAndPolimorfismo;
 
-public class Paciente extends Pessoa{ //Extends serve para HERDAR os atributos da classe pai (Pessoa)
+public class Paciente extends Pessoa { //Extends serve para HERDAR os atributos & métodos da classe pai (Pessoa)
 
     String matricula;
     String planoDeSaude;
@@ -10,4 +10,11 @@ public class Paciente extends Pessoa{ //Extends serve para HERDAR os atributos d
         this.matricula = matricula;
         this.planoDeSaude = planoDeSaude;
     }
+
+    public void imprimirInfo() {
+        super.imprimirInfo();
+        System.out.println("Matrícula: " + this.matricula);
+        System.out.println("Plano de Saúde: " + this.planoDeSaude);
+    }
+
 }
