@@ -11,6 +11,7 @@ public class Paciente extends Pessoa { //Extends serve para HERDAR os atributos 
         this.planoDeSaude = planoDeSaude;
     }
 
+    @Override
     public void imprimirInfo() {
         super.imprimirInfo();
         System.out.println("Matrícula: " + this.matricula);
