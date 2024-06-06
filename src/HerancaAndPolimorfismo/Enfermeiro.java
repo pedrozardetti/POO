@@ -18,6 +18,6 @@ public class Enfermeiro extends Pessoa {
         System.out.println("Hora de trabalho: " + this.horaTrabalho);
         System.out.println("Setor: " + this.setor);
         System.out.println("Número de cadastro: " + this.numeroCadastro);
-        
+
     }
 }
