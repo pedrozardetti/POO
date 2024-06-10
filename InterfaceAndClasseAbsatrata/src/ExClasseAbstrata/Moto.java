@@ -1,3 +1,5 @@
+package ExClasseAbstrata;
+
 public class Moto extends Veiculo {
     private float fatorDesconto;
 
