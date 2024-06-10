@@ -1,4 +1,6 @@
-package Polimorfismo;
+package Polimorfismo.Ex1;
+
+import Polimorfismo.Ex1.Cliente;
 
 public class ClienteVIP extends Cliente {
     private float creditoExtra;
