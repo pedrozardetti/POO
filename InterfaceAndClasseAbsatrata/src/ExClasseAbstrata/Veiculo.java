@@ -1,3 +1,5 @@
+package ExClasseAbstrata;
+
 public abstract class Veiculo { // a ideia da classe abstrata é ter um tipo genérico
     //
     private String modelo;
