@@ -1,3 +1,5 @@
+package ExClasseAbstrata;
+
 public class Quadriciclo extends Veiculo {
     private float fatorRisco;
 
