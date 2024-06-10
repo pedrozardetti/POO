@@ -1,6 +1,7 @@
-package Polimorfismo;
+package Polimorfismo.Ex1;
 
-import org.w3c.dom.ls.LSOutput;
+import Polimorfismo.Ex1.Cliente;
+import Polimorfismo.Ex1.ClienteVIP;
 
 public class LojasPI {
 
