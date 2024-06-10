@@ -1,3 +1,5 @@
+package ExClasseAbstrata;
+
 public class Locadora {
     public static void main(String[] args) {
         Veiculo estoque[];
