@@ -15,28 +15,26 @@ Bem-vindo ao repositório **Programação Orientada a Objetos (POO)**! Este repo
 - [📜 Licença](#-licença)
 - [📬 Contato](#-contato)
 
-## 📖 Sobre
+# Programação Orientada a Objetos (POO)
 
-O repositório **Programação Orientada a Objetos (POO)** foi criado para acompanhar as aulas do Professor Isidro e praticar os conceitos fundamentais e avançados de POO.
-
-### Conceitos Básicos de POO
+Neste repositório, você encontrará exemplos e exercícios relacionados à Programação Orientada a Objetos (POO).
 
 <details>
-<summary><strong>Clique para expandir</strong></summary>
+<summary><strong>Conceitos Básicos de POO</strong></summary>
 
-1. **Abstração**: Abstração é a técnica de organizar e simplificar classes e objetos em um sistema, direcionando o foco no que realmente importa e é necessário...
+1. **Abstração**: Abstração é a técnica de organizar e simplificar classes e objetos em um sistema, direcionando o foco no que realmente importa e é necessário.
 
-2. **Encapsulamento**: Encapsulamento é a técnica que consiste em ocultar e proteger os atributos de uma classe através de modificadores de acesso...
+2. **Encapsulamento**: Encapsulamento é a técnica que consiste em ocultar e proteger os atributos de uma classe através de modificadores de acesso.
 
-3. **Herança**: Herança é uma técnica que segue os conceitos de superclasse (classe pai) e subclasse (classe filha)...
+3. **Herança**: Herança é uma técnica que segue os conceitos de superclasse (classe pai) e subclasse (classe filha).
 
-4. **Polimorfismo**: Polimorfismo é a capacidade de um objeto de assumir diversas formas...
+4. **Polimorfismo**: Polimorfismo é a capacidade de um objeto de assumir diversas formas.
 
-5. **Classe Abstrata**: É uma classe genérica que serve como base para as outras subclasses...
+5. **Classe Abstrata**: É uma classe genérica que serve como base para as outras subclasses.
 
-6. **Interface**: É uma classe abstrata sem implementação onde são apenas criados métodos...
+6. **Interface**: É uma classe abstrata sem implementação onde são apenas criados métodos.
 
-7. **Palavra-chave this**: É uma palavra usada para referenciar um atributo da instância atual...
+7. **Palavra-chave `this`**: É uma palavra usada para referenciar um atributo da instância atual.
 
 8. **Modificadores de Acesso**:
    - `public`: Visível em qualquer parte do programa (classes diferentes, pacotes diferentes etc.).
@@ -45,6 +43,9 @@ O repositório **Programação Orientada a Objetos (POO)** foi criado para acomp
    - `protected`: Visível na mesma classe, classes do mesmo pacote e subclasses (do mesmo pacote ou pacotes diferentes).
 
 </details>
+
+Esses são conceitos básicos de POO que podem ser úteis para entender o código neste repositório.
+
 
 ## 🛠️ Tecnologias
 
