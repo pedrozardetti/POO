@@ -15,7 +15,7 @@ Bem-vindo ao repositório **Programação Orientada a Objetos (POO)**! Este repo
 - [📜 Licença](#-licença)
 - [📬 Contato](#-contato)
 
-# Programação Orientada a Objetos (POO)
+# Indo mais a fundo
 
 Neste repositório, você encontrará exemplos e exercícios relacionados à Programação Orientada a Objetos (POO).
 
