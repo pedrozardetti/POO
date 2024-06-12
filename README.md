@@ -45,6 +45,7 @@ O repositório **Programação Orientada a Objetos (POO)** foi criado para acomp
    - `protected`: Visível na mesma classe, classes do mesmo pacote e subclasses (do mesmo pacote ou pacotes diferentes).
 
 </details>
+
 ## 🛠️ Tecnologias
 
 As principais tecnologias utilizadas neste repositório são:
