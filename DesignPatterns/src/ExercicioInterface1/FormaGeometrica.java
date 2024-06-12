@@ -1,4 +1,4 @@
-package ExerciciosInterface;
+package ExercicioInterface1;
 
 public interface FormaGeometrica {
     public double area();
