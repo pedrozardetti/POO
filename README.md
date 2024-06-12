@@ -2,7 +2,7 @@
 
 ![Badge de Licença](https://img.shields.io/badge/licença-MIT-blue.svg)
 
-Bem-vindo ao repositório **Programação Orientada a Objetos (POO)**! Este repositório contém as aulas e exercícios da disciplina ministrada pelo Professor Isidro, focando nos principais pilares da POO e conceitos avançados como Interfaces e Classes Abstratas.
+Bem-vindo ao repositório **Programação Orientada a Objetos (POO)**! Este repositório contém as aulas e exercícios da disciplina ministrada pelo Professor Isidro e Gabriel Dias, focando nos principais pilares da POO e conceitos avançados como Interfaces e Classes Abstratas.
 
 ## 🗺️ Índice
 
