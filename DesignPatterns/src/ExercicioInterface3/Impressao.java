@@ -1,2 +1,6 @@
-package ExercicioInterface3;public interface Impressao {
+package ExercicioInterface3;
+
+public interface Impressao {
+
+    public void imprimeDados();
 }
