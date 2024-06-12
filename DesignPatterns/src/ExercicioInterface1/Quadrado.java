@@ -1,4 +1,4 @@
-package ExerciciosInterface;
+package ExercicioInterface1;
 
 public class Quadrado implements FormaGeometrica {
 
