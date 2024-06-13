@@ -15,19 +15,37 @@ Bem-vindo ao repositório **Programação Orientada a Objetos (POO)**! Este repo
 - [📜 Licença](#-licença)
 - [📬 Contato](#-contato)
 
-## 📖 Sobre
+# Indo mais a fundo
 
-O repositório **Programação Orientada a Objetos (POO)** foi criado para acompanhar as aulas do Professor Isidro e praticar os conceitos fundamentais e avançados de POO. Abordamos os seguintes tópicos principais:
+Neste repositório, você encontrará exemplos e exercícios relacionados à Programação Orientada a Objetos (POO).
 
-- **Abstração**: Simplificação da complexidade do mundo real em modelos computacionais.
-- **Herança**: Reutilização de código e estabelecimento de hierarquias.
-- **Polimorfismo**: Flexibilidade no tratamento de objetos.
-- **Encapsulamento**: Proteção e controle de acesso aos dados.
+<details>
+<summary><strong>Conceitos Básicos de POO</strong></summary>
 
-Além dos pilares fundamentais, também exploramos:
+1. **Abstração**: Abstração é a técnica de organizar e simplificar classes e objetos em um sistema, direcionando o foco no que realmente importa e é necessário.
 
-- **Interfaces**: Definição de contratos para classes.
-- **Classes Abstratas**: Criação de classes base para herança.
+2. **Encapsulamento**: Encapsulamento é a técnica que consiste em ocultar e proteger os atributos de uma classe através de modificadores de acesso.
+
+3. **Herança**: Herança é uma técnica que segue os conceitos de superclasse (classe pai) e subclasse (classe filha).
+
+4. **Polimorfismo**: Polimorfismo é a capacidade de um objeto de assumir diversas formas.
+
+5. **Classe Abstrata**: É uma classe genérica que serve como base para as outras subclasses.
+
+6. **Interface**: É uma classe abstrata sem implementação onde são apenas criados métodos.
+
+7. **Palavra-chave `this`**: É uma palavra usada para referenciar um atributo da instância atual.
+
+8. **Modificadores de Acesso**:
+   - `public`: Visível em qualquer parte do programa (classes diferentes, pacotes diferentes etc.).
+   - `private`: Visível apenas na mesma classe.
+   - `default`: Visível apenas nas classes e subclasses do mesmo pacote.
+   - `protected`: Visível na mesma classe, classes do mesmo pacote e subclasses (do mesmo pacote ou pacotes diferentes).
+
+</details>
+
+Esses são conceitos básicos de POO que podem ser úteis para entender o código neste repositório.
+
 
 ## 🛠️ Tecnologias
 
